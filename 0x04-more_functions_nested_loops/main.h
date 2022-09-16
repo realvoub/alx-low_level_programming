@@ -1,4 +1,4 @@
-fndef _main_h_
+#ifndef _main_h_
 #define _main_h_
 
 int _isupper(int c);
@@ -14,5 +14,4 @@ void print_square(int size);
 void print_triangle(int size);
 void print_triangle(int size);
 void print_number(int n);
-
 #endif
